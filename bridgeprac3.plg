@@ -1,0 +1,16 @@
+--------------------Configuration: bridgeprac3 - Win32 Debug--------------------
+Begining build with project "E:\Falguni\bridgeprac3.dsp", with item "bridgeprac3.c"
+Active configuration is Win32 (x86) Console Application (based on Win32 (x86) Console Application)
+
+
+Creating temp file "C:\Users\st\AppData\Local\Temp\RSPC1D1.tmp" with contents </nologo /MLd /W3 /Gm /GX /Zi /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/bridgeprac3.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /c 
+"E:\Falguni\bridgeprac3.c"
+>
+Creating command line "cl.exe @C:\Users\st\AppData\Local\Temp\RSPC1D1.tmp" 
+Compiling...
+bridgeprac3.c
+E:\Falguni\bridgeprac3.c(7) : warning C4101: 'a' : unreferenced local variable
+
+
+
+bridgeprac3.obj - 0 error(s), 1 warning(s)

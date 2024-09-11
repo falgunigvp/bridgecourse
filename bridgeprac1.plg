@@ -1,0 +1,15 @@
+--------------------Configuration: bridgeprac1 - Win32 Debug--------------------
+Begining build with project "E:\Falguni\bridgeprac1.dsp", with item "bridgeprac2.c"
+Active configuration is Win32 (x86) Console Application (based on Win32 (x86) Console Application)
+
+
+Creating temp file "C:\Users\st\AppData\Local\Temp\RSPA640.tmp" with contents </nologo /MLd /W3 /Gm /GX /Zi /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/bridgeprac1.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /c 
+"E:\Falguni\bridgeprac2.c"
+>
+Creating command line "cl.exe @C:\Users\st\AppData\Local\Temp\RSPA640.tmp" 
+Compiling...
+bridgeprac2.c
+
+
+
+bridgeprac2.obj - 0 error(s), 0 warning(s)
